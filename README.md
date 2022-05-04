@@ -1,2 +1,2 @@
 # Stack-ELK
-Ce projet réalisé dans le cadre de mon mastère spécialisé à Télécom Paris a 
+Ce projet a pour but la mise en place et la manipulation d'une stack ELK pour l'analyse de logs réseaux.
