@@ -3,5 +3,5 @@ Le présent projet de Sécurité pour le Big Data (INF 726) s'inscrit dans le co
 
 C'est dans ce contexte que s'inscrit ce projet qui est dédiée à la mise en place et la manipulation d'une stack ELK pour la collecte et l'analyse de logs réseaux. Cette stack ELK fait intervenir les 3 technologies suivantes :
               > Elasticsearch
-              > Kibana
+              > Kibana 
               > Logstash
